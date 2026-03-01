@@ -19,6 +19,6 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 📫 Contato
 
 ![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{antonio92santos50@gmail.com})
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[(https://www.linkedin.com/in/antonio-santos-6b035826b/)](https://www.linkedin.com/in/antonio-santos-6b035826b/))]((https://www.linkedin.com/in/antonio-santos-6b035826b/))
+[![Linkedin: Antonio](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[(https://www.linkedin.com/in/antonio-santos-6b035826b/)](https://www.linkedin.com/in/antonio-santos-6b035826b/))]((https://www.linkedin.com/in/antonio-santos-6b035826b/))
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
